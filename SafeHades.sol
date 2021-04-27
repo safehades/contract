@@ -1,23 +1,39 @@
 /**
-    SafeHades - The deflationary and fair launch token on BSC 🚀
-    Official Channels:
-    * Website: https://safehades.net
-    * Twitter: https://twitter.com/safehades
-    * Telegram Official Channel: https://t.me/safehades
-    * Telegram Official Group: https://t.me/safehadeschat
-    * Github: https://github.com/safehades
-    * Email: support@safehades.net
+SafeHades.net - The deflationary and fair launch token on BSC 🚀
+Fair Launch! 95% BNB raised on DxSale will be added to Pancakeswap liquidity and locked.
+THE POWER OF THE DEATH GOD DRIVEN BY THE COMMUNITY
+SafeHades Token ($sHADES) is a token based on supply deflation and token redistribution meaning that holders tend to gain more in the long term.
 
-    Three token features:
-    5% fee auto add to the liquidity pool to locked forever when selling
-    3% fee auto distribute to all holders (Lower overall penality for buying / selling should resolve cross exchange pricing issues SafeHades has)
-    Strong burned at launch, diamond hands will be rewarded.
 
-    - Liquidity pool tokens locked at launch (It's rug-proof)
-    - Contract ownership renounced at launch (It's owned buy the community)
-    Let's get this coin to 10,000x and get SafeHadesCoin back into to space!
+----- Tokenomics » 100,000,000,000,000,000 ------
+- 0% Dev wallet, entirely owned by community
+- 3% reflected
+- 5% burnt forever
+* Presale Price = Listing Price
+
+
+🎯 Fair Launch ☑️
+🎯 Liquidity burned » Unruggable 🔒
+🎯 Deflationary supply » Continuous Rising Price Floor 📈
+🎯 100% community based
+SafeHades - The deflationary and fair launch token on BSC 🚀
+Official Channels:
+* Website: https://safehades.net
+* Twitter: https://twitter.com/safehades
+* Telegram Official Channel: https://t.me/safehades
+* Telegram Official Group: https://t.me/safehadeschat
+* Github: https://github.com/safehades
+* Email: support@safehades.net
+
+Three token features:
+5% fee auto add to the liquidity pool to locked forever when selling
+3% fee auto distribute to all holders (Lower overall penality for buying / selling should resolve cross exchange pricing issues SafeHades has)
+Strong burned at launch, diamond hands will be rewarded.
+
+- Liquidity pool tokens locked at launch (It's rug-proof)
+- Contract ownership renounced at launch (It's owned buy the community)
+Let's get this coin to 10,000x and get SafeHadesCoin back into to space!
  **/
-
 
 pragma solidity ^0.6.12;
 
